@@ -1,0 +1,5 @@
+subject_id,region_label,uncertainty_std,uncertainty_normalized
+6952,L_entorhinal,0.082207,0.396394
+6952,L_insula,0.10055,0.743909
+6952,R_entorhinal,0.061284,0.0
+6952,R_insula,0.10741,0.873865

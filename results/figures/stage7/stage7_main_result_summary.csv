@@ -1,0 +1,5 @@
+model,mae_mean,mae_std,top3_hit_rate,top5_hit_rate,p_vs_gnn
+gnn_v3_individualized,0.08572,0.003633,0.081889,0.11261,
+persistence,0.089518,0.003975,0.045183,0.110706,0.125
+ridge,0.086333,0.00312,0.110263,0.153159,0.3125
+xgboost,0.085546,0.002187,0.195401,0.241426,0.625

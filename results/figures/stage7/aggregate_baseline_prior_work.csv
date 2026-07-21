@@ -1,0 +1,5 @@
+model,mean_mae,std_mae
+gnn,0.084969625,0.005174446
+persistence,0.089523073,0.006953936
+diffusion,0.091644,0.006503005
+growth_diffusion,0.09005512,0.006040552
