@@ -143,13 +143,13 @@ uncertainty region (`L_superiorparietal`) located away from the subject's actual
 hotspots — a coherent picture of a confident, correct prediction.
 
 <p align="center">
-  <img src="results/figures/case_studies/screenshots/success_4168_panel.jpg" width="100%" alt="Subject 4168 baseline, predicted, and follow-up tau surfaces side by side">
+  <img src="results/figures/case_studies/screenshots/success_4168_panel.png" width="100%" alt="Subject 4168 baseline, predicted, and follow-up tau surfaces side by side">
 </p>
 <p align="center"><em>Baseline → predicted → real follow-up, shared colorbar (subject 4168)</em></p>
 
 | Attribution glow-overlay | Confidence toggle |
 |---|---|
-| ![4168 attribution](results/figures/case_studies/screenshots/success_4168_glow_overlay.jpg) | ![4168 confidence](results/figures/case_studies/screenshots/success_4168_confidence.jpg) |
+| ![4168 attribution](results/figures/case_studies/screenshots/success_4168_glow_overlay.png) | ![4168 confidence](results/figures/case_studies/screenshots/success_4168_confidence.png) |
 
 **Subject 6952 (ambiguous case).** Top-5 region-ranking accuracy fell short of persistence for
 this subject, but the model's attribution and uncertainty layers told an honest, interpretable
@@ -158,13 +158,13 @@ pathway (entorhinal→insula), and uncertainty was concentrated exactly on that 
 than the target region — informative even when the raw prediction wasn't perfect.
 
 <p align="center">
-  <img src="results/figures/case_studies/screenshots/ambiguous_6952_panel.jpg" width="100%" alt="Subject 6952 baseline, predicted, and follow-up tau surfaces side by side">
+  <img src="results/figures/case_studies/screenshots/ambiguous_6952_panel.png" width="100%" alt="Subject 6952 baseline, predicted, and follow-up tau surfaces side by side">
 </p>
 <p align="center"><em>Baseline → predicted → real follow-up, shared colorbar (subject 6952)</em></p>
 
 | Attribution glow-overlay | Confidence toggle |
 |---|---|
-| ![6952 attribution](results/figures/case_studies/screenshots/ambiguous_6952_glow_overlay.jpg) | ![6952 confidence](results/figures/case_studies/screenshots/ambiguous_6952_confidence.jpg) |
+| ![6952 attribution](results/figures/case_studies/screenshots/ambiguous_6952_glow_overlay.png) | ![6952 confidence](results/figures/case_studies/screenshots/ambiguous_6952_confidence.png) |
 
 ### Interactive Animations
 
